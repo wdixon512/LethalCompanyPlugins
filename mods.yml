@@ -1,0 +1,158 @@
+- manifestVersion: 1
+  name: BepInEx-BepInExPack
+  authorName: BepInEx
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/
+  displayName: BepInExPack
+  description: BepInEx pack for Mono Unity games. Preconfigured and ready to use.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 4
+    patch: 2100
+  enabled: true
+  icon: C:/Users/isagn/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/BepInEx-BepInExPack/5.4.2100/icon.png
+- manifestVersion: 1
+  name: notnotnotswipez-MoreCompany
+  authorName: notnotnotswipez
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/
+  displayName: MoreCompany
+  description: A stable lobby player count expansion mod. With cosmetics!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 9
+    patch: 1
+  enabled: true
+  icon: C:/Users/isagn/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/notnotnotswipez-MoreCompany/1.9.1/icon.png
+- manifestVersion: 1
+  name: Rattenbonkers-TVLoader
+  authorName: Rattenbonkers
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Rattenbonkers/TVLoader/
+  displayName: TVLoader
+  description: Allows players to add custom videos to the Television.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:/Users/isagn/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/Rattenbonkers-TVLoader/1.1.1/icon.png
+- manifestVersion: 1
+  name: Nikki-FamilyGuyFunnyMomentsFixed
+  authorName: Nikki
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Nikki/FamilyGuyFunnyMomentsFixed/
+  displayName: FamilyGuyFunnyMomentsFixed
+  description: A fixed version of PrinceNailo's Family_Guy_Funny_Moments mod. Will
+    remove if the original version is fixed.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - Rattenbonkers-TVLoader-1.1.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 1
+  enabled: true
+  icon: C:/Users/isagn/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/Nikki-FamilyGuyFunnyMomentsFixed/1.3.1/icon.png
+- manifestVersion: 1
+  name: FlipMods-TooManyEmotes
+  authorName: FlipMods
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/
+  displayName: TooManyEmotes
+  description: V50 compatible! Adds over 200 new emotes! Includes emote wheel,
+    allows Masked Enemies to emote, adds emote music (can be muted), implements
+    a system for purchasing emotes on the store (optional), and much more!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 14
+  enabled: true
+  icon: C:/Users/isagn/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/FlipMods-TooManyEmotes/2.1.14/icon.png
+- manifestVersion: 1
+  name: x753-More_Suits
+  authorName: x753
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/x753/More_Suits/
+  displayName: More_Suits
+  description: Adds more suits to choose from, and can be used as a library to
+    load your own suits!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 3
+  enabled: true
+  icon: C:/Users/isagn/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/x753-More_Suits/1.4.3/icon.png
+- manifestVersion: 1
+  name: Verity-TooManySuits
+  authorName: Verity
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/
+  displayName: TooManySuits
+  description: More Suits Addon which adds pages to the suit rack.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - x753-More_Suits-1.4.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 9
+  enabled: true
+  icon: C:/Users/isagn/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/Verity-TooManySuits/1.0.9/icon.png
