@@ -1,5 +1,5 @@
 # How to Use
-1. Install [Thunderstore Mod Manager])(https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager)
+1. Install [Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager)
 2. Download the files in this repository as a .zip
 3. Extract the .zip into the following location on your PC: `%appdata%\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Default\`
 a. On Windows PCs, hit the Windows key then type `Run`. In the small window that pops up, type `%appdata%`. That will take you to your appdata folder referenced above^
