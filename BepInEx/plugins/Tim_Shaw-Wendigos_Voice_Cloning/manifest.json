@@ -1,0 +1,11 @@
+{
+  "namespace": "Tim Shaw",
+  "name": "Wendigos_Voice_Cloning",
+  "description": "The masked can now mimic the voices of your friends",
+  "version_number": "0.1.6",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ],
+  "website_url": "https://github.com/TimShaw1/Wendigos-Mod",
+  "FullName": "Wendigos_Voice_Cloning"
+}
